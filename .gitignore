@@ -1,2 +1,14 @@
 *.aux
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.synctex(busy)
+*.synctex(busy).1
+*.synctex(busy).2
+
+
+*.fdb_latexmk
 
